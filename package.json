@@ -21,6 +21,6 @@
     "@aws-cdk/aws-s3": "^1.49.1",
     "@aws-cdk/aws-s3-notifications": "^1.49.1",
     "@aws-cdk/core": "1.44.0",
-    "aws-sdk": "^2.709.0"
+    "aws-sdk": "^2.814.0"
   }
 }
